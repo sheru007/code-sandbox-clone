@@ -18,6 +18,7 @@ export default function Preview() {
             ref={iframeRef}
             className="h-full w-full border-2"
             src="loading.html"
+            allow="cross-origin-isolated"
         />
     );
 }
