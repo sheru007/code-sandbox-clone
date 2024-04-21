@@ -1,3 +1,11 @@
+# clone of online editor
+url: https://code-sandbox-clone.vercel.app/
+
+image: <img width="1460" alt="image" src="https://github.com/sheru007/code-sandbox-clone/assets/77526923/901d86ae-1f87-4214-b1a1-1c601ec14912">
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
