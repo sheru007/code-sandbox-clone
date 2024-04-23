@@ -12,6 +12,15 @@
                     "value": "same-origin"
                 }
             ]
+        },
+        {
+            "source": "/loading.html",
+            "headers": [
+                {
+                    "key": "Cross-Origin-Embedder-Policy",
+                    "value": "require-corp"
+                }
+            ]
         }
     ]
 }
