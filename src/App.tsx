@@ -6,6 +6,8 @@ import { VITE_REACT_TEMPLATE } from './templates/react-vite';
 import Terminal from './components/Terminal';
 import Preview from './components/Preview';
 
+//  TODO: 
+// TODO: 
 export default function App() {
   return (
     <WebContainerProvider template={VITE_REACT_TEMPLATE}>
